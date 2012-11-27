@@ -1,5 +1,5 @@
 Readme
 =============
 
-The perosnal web page of Bryan Bailliache.
+The personal web page of Bryan Bailliache.
 
